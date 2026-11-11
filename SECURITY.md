@@ -2,7 +2,7 @@
 
 Use this repository to send OpenViCloud something that must not be public.
 Open **Security → Report a vulnerability**:
-https://github.com/OpenViCloud/support/security/advisories/new
+https://github.com/OpenViCloud/titan-support/security/advisories/new
 Only you and the OpenViCloud maintainers can read the report.
 
 Use it for:
@@ -20,7 +20,7 @@ Bugs and questions that can be public go to the issues of the repository concern
 
 Dùng repository này để gửi OpenViCloud những điều không được công khai.
 Mở **Security → Report a vulnerability**:
-https://github.com/OpenViCloud/support/security/advisories/new
+https://github.com/OpenViCloud/titan-support/security/advisories/new
 Chỉ bạn và người quản trị OpenViCloud đọc được báo cáo.
 
 Dùng cho:
