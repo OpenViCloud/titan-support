@@ -12,7 +12,9 @@ Use it for:
 
 Write the email of your OpenViCloud account and what you want.
 Never put personal data in a public issue.
-Bugs and questions that can be public go to the issues of the repository concerned.
+Bugs that can be public go to the issues of the repository concerned.
+Questions and trial credit requests that can be public go to a public issue of this repository:
+https://github.com/OpenViCloud/titan-support/issues/new/choose
 
 ---
 
@@ -30,4 +32,6 @@ Dùng cho:
 
 Ghi email tài khoản OpenViCloud của bạn và điều bạn cần.
 Không đưa dữ liệu cá nhân vào issue công khai.
-Lỗi và câu hỏi công khai được thì gửi vào issue của repository liên quan.
+Lỗi công khai được thì gửi vào issue của repository liên quan.
+Câu hỏi và yêu cầu credit dùng thử công khai được thì mở issue công khai ở repository này:
+https://github.com/OpenViCloud/titan-support/issues/new/choose
