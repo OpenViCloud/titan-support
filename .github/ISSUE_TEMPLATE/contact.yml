@@ -1,0 +1,32 @@
+name: Contact OpenViCloud
+description: Ask a question or ask for trial credit. This issue is public. / Đặt câu hỏi hay xin credit dùng thử. Issue này công khai.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This issue is public: everyone can read it. Never write your email, phone number or any other personal data here.
+        For personal data, account complaints or security reports, use the private report instead.
+
+        Issue này công khai: ai cũng đọc được. Đừng ghi email, số điện thoại hay dữ liệu cá nhân nào ở đây.
+        Dữ liệu cá nhân, khiếu nại tài khoản hay báo lỗ hổng bảo mật thì dùng báo cáo riêng.
+  - type: input
+    id: tenant-id
+    attributes:
+      label: Tenant ID / Mã tenant
+      description: In the portal, open Profile and copy the Tenant ID. / Trong portal, mở Hồ sơ và chép Mã tenant.
+    validations:
+      required: true
+  - type: textarea
+    id: request
+    attributes:
+      label: What do you need? / Bạn cần gì?
+      description: For trial credit, say what you want to run. / Xin credit dùng thử thì nói bạn định chạy gì.
+    validations:
+      required: true
+  - type: checkboxes
+    id: public
+    attributes:
+      label: Public issue / Issue công khai
+      options:
+        - label: This issue has no personal data. / Issue này không có dữ liệu cá nhân.
+          required: true

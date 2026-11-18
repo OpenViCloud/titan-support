@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Contact OpenViCloud privately / Liên hệ riêng với OpenViCloud
+    url: https://github.com/OpenViCloud/titan-support/security/advisories/new
+    about: Personal data, account complaints such as a suspension, security vulnerabilities. Only you and the OpenViCloud maintainers read it. / Dữ liệu cá nhân, khiếu nại tài khoản như bị tạm khoá, lỗ hổng bảo mật. Chỉ bạn và người quản trị OpenViCloud đọc được.
